@@ -1,6 +1,9 @@
 <img src="./img/main.png" alt="Mokkapps GitHub README header image">
 
 
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
 ## :package: I'm a distributor of:
 - Sugar :cake: for my mates _(ask politely)_
 - Organization 
@@ -18,6 +21,8 @@
 - PHP
 - Node.js
 - Typescript
+
+</details>
 
 ## 📫 How to reach me:
 You can reach me at the email in my 
