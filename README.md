@@ -19,13 +19,16 @@
 - Node.js
 - Typescript
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 or: 
+## 📫 How to reach me:
+You can reach me at the email in my 
+github profile or: 
 
 [<img src="./img/linkedin.svg" height="40em" align="center" alt="Follow Elina on LinkedIn" title="Follow Elina on LinkedIn"/>](https://www.linkedin.com/in/elina-hulbert-b74206216/?locale=en_US)
 [<img src="./img/mail.svg" height="40em" align="center" alt="Mail Elina" title="Mail Elina"/>](mailto:elinahulbert@gmail.com)
 [<img src="./img/behance.svg" height="40em" align="center" alt="Follow Elina on Behance" title="Follow Elina on Behance"/>](https://www.behance.net/elinahulbert)
 [<img src="./img/instagram.svg" height="40em" align="center" alt="Follow Elina on Instagram" title="Follow Elina on Instagram"/>](https://www.instagram.com/_koltrast/?hl=en)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ElinaHulbert&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 
