@@ -43,6 +43,10 @@ You can reach/follow me:
   <summary><b>:bar_chart:&nbsp;&nbsp;Some&nbsp;Statistics&nbsp;(Not available yet)</b></summary>
   <br/>
 
+Github Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+Wakatime Stats:
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ElinaHulbert&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=EDBA83)
 [![wakatime](https://wakatime.com/badge/user/69ae04d4-76ba-4450-914b-d317e667735c.svg)](https://wakatime.com/@69ae04d4-76ba-4450-914b-d317e667735c)
 
