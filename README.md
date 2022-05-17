@@ -44,5 +44,6 @@ You can reach/follow me:
   <br/>
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ElinaHulbert&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=EDBA83)
+[![wakatime](https://wakatime.com/badge/user/69ae04d4-76ba-4450-914b-d317e667735c.svg)](https://wakatime.com/@69ae04d4-76ba-4450-914b-d317e667735c)
 
 </details>
