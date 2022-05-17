@@ -44,7 +44,8 @@ You can reach/follow me:
   <br/>
 
 Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinaHulbert)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinaHulbert&title_color=#edba85)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats:
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ElinaHulbert&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=EDBA83)
