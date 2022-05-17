@@ -33,6 +33,7 @@
  
 You can reach/follow me: 
 <br/>
+[<img src="./img/portfolio.svg" height="40em" align="center" alt="Check Elina's portfolio" title="Check Elina's portfolio"/>](https://jade-gelato-839447.netlify.app/)
 [<img src="./img/linkedin.svg" height="40em" align="center" alt="Follow Elina on LinkedIn" title="Follow Elina on LinkedIn"/>](https://www.linkedin.com/in/elina-hulbert-b74206216/?locale=en_US)
 [<img src="./img/mail.svg" height="40em" align="center" alt="Mail Elina" title="Mail Elina"/>](mailto:elinahulbert@gmail.com)
 [<img src="./img/behance.svg" height="40em" align="center" alt="Follow Elina on Behance" title="Follow Elina on Behance"/>](https://www.behance.net/elinahulbert)
@@ -41,7 +42,7 @@ You can reach/follow me:
 </details>
 
 <details>
-  <summary><b>:bar_chart:&nbsp;&nbsp;Some&nbsp;Statistics&nbsp;(Not available yet)</b></summary>
+  <summary><b>:bar_chart:&nbsp;&nbsp;Some&nbsp;Statistics&nbsp;</b></summary>
   <br/>
 
 Github Stats:
