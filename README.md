@@ -48,7 +48,7 @@ Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElinaHulbert&title_color=#edba85&icon_color=#edba85)](https://github.com/anuraghazra/github-readme-stats)
 
 Wakatime Stats:
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ElinaHulbert&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=EDBA83)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ElinaHulbert/71ecc19e-94e4-42d1-b498-19bf3f424f54.png" /></a>
 [![wakatime](https://wakatime.com/badge/user/69ae04d4-76ba-4450-914b-d317e667735c.svg)](https://wakatime.com/@69ae04d4-76ba-4450-914b-d317e667735c)
 
 </details>
